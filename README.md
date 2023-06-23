@@ -1,3 +1,9 @@
+# Robótica Proyecto Final.
+_Juan Olaya_,
+_Luis Preciado_,
+_Daniel Ramirez_.
+
+
 ## Descripción solucion creada, proceso de alistamiento, herramientas y piezas utilizadas.
 Para abordar el problema planteado, se ha desarrollado una solución que involucra el diseño de una herramienta capaz de sostener tanto la ventosa como el gancho simultáneamente, manteniéndolos a una distancia considerable para evitar interferencias. Además, se han programado las rutinas correspondientes utilizando RobotStudio y se ha llevado a cabo la implementación en el laboratorio. Durante este proceso, fue necesario realizar ajustes en los objetos de trabajo para que las rutinas programadas se adaptaran a la realidad.
 
