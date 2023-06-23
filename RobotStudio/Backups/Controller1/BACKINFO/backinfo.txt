@@ -1,0 +1,39 @@
+#
+# Generated backup file, do not edit.
+#
+# Originally at: C:\Users\Juan Camilo\Documents\RobotStudio\Solutions\proyecto\Virtual Controllers\TEMP\8e0123cf-b6fd-4390-95db-b0a265d5c75f\backup.042482
+# 2023-06-22  13:37:36
+#
+>>SYSTEM_ID:
+VIRTUAL_USE
+
+>>PRODUCTS_ID:
+RobotWare Version: 6.15.01.00
+
+  RobotWare Base
+  English
+  Drive System IRB 120/140/260/360/910SC/1200/1400/1520/1600/1660ID
+  ADU-790A in position X3
+  ADU-790A in position Y3
+  ADU-790A in position Z3
+  IRB 140-6/0.8
+
+>>HOME:
+All public files and directories
+
+>>SYSPAR:
+SYS.cfg
+PROC.cfg
+MMC.cfg
+EIO.cfg
+SIO.cfg
+MOC.cfg
+
+
+>>TASK1: (T_ROB1,proyecto_jolayam,)
+SYSMOD\user.sys @ 
+PROGMOD\Module1.mod @ 
+PROGMOD\CalibData.mod @ 
+
+
+>>EOF:
